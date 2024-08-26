@@ -1,3 +1,7 @@
+In this CP we create our first class-based component  white a lifecycle Component (Mounting & Unmounting).
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
