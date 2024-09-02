@@ -15,6 +15,7 @@ class App extends Component {
     };
   }
 
+  
 componentDidMount(){
 
    this.intervalId = setInterval(() => {
